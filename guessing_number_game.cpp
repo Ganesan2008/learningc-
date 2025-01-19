@@ -11,7 +11,6 @@ int main()
     //random number generation
     srand(time(0));
     random_number = rand() % 100 + 1;
-
     do
     {
         cout << "Enter a number between 1 to 100: ";
