@@ -1,0 +1,3 @@
+/mnt/c/Users/prasa/OneDrive/Desktop/c++_project/learningc-/guessing_game/build/CMakeFiles/guessing_game.dir
+/mnt/c/Users/prasa/OneDrive/Desktop/c++_project/learningc-/guessing_game/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/prasa/OneDrive/Desktop/c++_project/learningc-/guessing_game/build/CMakeFiles/rebuild_cache.dir

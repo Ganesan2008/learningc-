@@ -1,0 +1,9 @@
+# Minimum cMake version required
+cmake_minimum_required(VERSION 3.10)
+
+# Project name
+project(GuessingGame)
+
+# Add an executable file
+add_executable(guessing_game  guessing_number_game.cpp)
+
